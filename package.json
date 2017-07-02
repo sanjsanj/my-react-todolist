@@ -14,6 +14,7 @@
     "eslint-plugin-import": "^2.6.1",
     "eslint-plugin-jsx-a11y": "^5.1.0",
     "eslint-plugin-react": "^7.1.0",
+    "prop-types": "^15.5.10",
     "react-scripts": "1.0.7",
     "react-test-renderer": "^15.6.1",
     "selenium-standalone": "^6.5.0",
