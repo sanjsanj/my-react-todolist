@@ -1,8 +1,8 @@
 ## A guide to TDD a React/Redux TodoList App
 
-Read the tutorial (link coming)
+(Read the tutorial)[https://medium.com/@sanjsanj/a-guide-to-tdd-a-react-redux-todolist-app-part-1-b8a200bb7091}
 
-View the App online https://my-react-todolist.herokuapp.com/
+(View the App online)[https://my-react-todolist.herokuapp.com/]
 
 ### Setup:
 ```
