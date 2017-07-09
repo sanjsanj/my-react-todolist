@@ -3,7 +3,11 @@ import PropTypes from 'prop-types';
 
 const TodoList = ({ todos }) => {
   const todoItems = todos.map(todo => (
-    <li key={todo.id}>{todo.text}</li>
+    <li key={todo.id}>
+      <span className="todo-text">
+        {todo.text}
+      </span>
+    </li>
   ));
 
   return (
