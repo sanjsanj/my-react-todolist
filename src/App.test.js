@@ -14,6 +14,7 @@ it('App renders without crashing', () => {
       submitTodo={mockFunction}
       todos={[]}
       deleteTodo={mockFunction}
+      undeleteTodo={mockFunction}
     />,
   );
 
