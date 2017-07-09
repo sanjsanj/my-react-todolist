@@ -22,6 +22,7 @@ const AddTodo = ({ submitTodo, undeleteTodo, inputChanged, disableAddTodo, disab
             input = element;
           }}
           onChange={() => inputChanged(input.value)}
+          placeholder="I'm going to..."
         />
 
         <button

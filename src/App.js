@@ -4,6 +4,7 @@ import PropTypes from 'prop-types';
 import AddTodo from './components/addTodo/';
 import TodoList from './components/todoList';
 import actions from './actions/';
+import './App.css';
 
 export const App = ({
     submitTodo,
